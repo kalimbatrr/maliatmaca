@@ -37,22 +37,7 @@
 }
 
 @media (max-width: 768px) {
-  .slider_section ol.carousel-indicators {
-    justify-content: center;
-  }
-
-  .slider_section {
-    text-align: center;
-  }
-
-  .slider_section .img-box {
-    margin-top: 35px;
-  }
-
-  .slider_section .detail-box .btn-box {
-    justify-content: center;
-    flex-wrap: wrap;
-  }
+  
 
   .about_section .heading_container {
     margin-bottom: 0;
@@ -107,7 +92,17 @@
 
 @media (max-width: 576px) {
   .header_top a span {
-    display: none;
+   font-size: xx-small;
+    justify-content:left;
+  }
+  .contact_link-container {
+    width: 1.5rem;
+  }
+  .img-box {
+    width: 60vh;
+  }
+  .col-md-3 {
+    width: 30%;
   }
 
   .slider_section .detail-box h1 {
