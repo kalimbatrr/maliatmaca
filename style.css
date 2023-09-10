@@ -797,8 +797,8 @@ a:focus {
 
 .info_section .row > div {
   margin-bottom: 25px;
-  width: 20vh;
   margin-left:125px;
+  width: 20vh;
   justify-content: space-around;
 }
 
