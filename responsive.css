@@ -97,12 +97,15 @@
   }
   .contact_link-container {
     width: 1.5rem;
+    text-align: justify;
   }
   .img-box {
-    width: 60vh;
+    width: 100%;
+    justify-content:center;
   }
   .col-md-3 {
     width: 30%;
+    text-align: justify;
   }
 
   .slider_section .detail-box h1 {
